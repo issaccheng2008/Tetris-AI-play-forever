@@ -5,20 +5,21 @@ if you want to learn more, I made a video expaining it all.[Google](https://www.
 the file'input.txt' is the file containing all the 'illegal' states for a tetris game.
 the file 'tetrominoes.txt' is the file containing all the information about each tetrominoes.
 the file 'play_tetris.cpp' is the program that automatically plays tetris on [Jstris](https://jstris.jezevec10.com/)
-to see the AI play tetris yourself, first you will have to know
-the coordinate of the the top-left corner of the place where they show the coming blocks
+to see the AI play tetris yourself, first you will have to know:
+
+the coordinate of the the top-left corner of the place where they show the coming blocks(789,324)
 
 ![piece](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/piece.png)
 
-the width of each grid
+the width of each grid(31)
 
 ![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/width.png)
 
-the bottom_left corner of the board
+the bottom_left corner of the board(430,896)
 
 ![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/board.png)
 
-the y_cordinate of the top of the board
+the y_cordinate of the top of the board(291)
 
 ![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/y_coordinate.png)
 
