@@ -9,6 +9,7 @@ to see the AI play tetris yourself, first you will have to know
 the coordinate of the the top-left corner of the place where they show the coming blocks
 
 ![piece](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/piece.png)
+
 the width of each grid
 
 ![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/width.png)
