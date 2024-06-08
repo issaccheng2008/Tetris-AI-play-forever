@@ -5,4 +5,5 @@ if you want to learn more, I made a video expaining it all.[Google](https://www.
 the file'input.txt' is the file containing all the 'illegal' states for a tetris game.
 the file 'tetrominoes.txt' is the file containing all the information about each tetrominoes.
 the file 'play_tetris.cpp' is the program that automatically plays tetris on [Jstris](https://jstris.jezevec10.com/)
-to see the AI play tetris yourself, first you will have to know the width of each grid, the top-left 
+to see the AI play tetris yourself, first you will have to know the coordinate of the the top-left corner of the place where they show the next ![My Image](top_left_corner_of_piece/.png)
+
