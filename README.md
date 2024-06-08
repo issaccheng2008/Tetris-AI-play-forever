@@ -24,3 +24,9 @@ the y_cordinate of the top of the board(291)
 ![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/y_coordinate.png)
 
 and put them into px,py,w,bx,by,top_y
+
+my program probably has some bugs. plus the fact that Jstris wasn't built for such high speed, it may take a few tries to finish the 1000 line speedrun. if you decrease the speed at which the program places blocks, then you can finish it almost every time.
+
+if you want to run the program on some other platform besides Jstris, then you will probabily need to write your own recognition function.
+
+if you have any questions or suggestions, then please comment.
