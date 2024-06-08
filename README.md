@@ -14,3 +14,12 @@ the width of each grid
 
 ![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/width.png)
 
+the bottom_left corner of the board
+
+![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/board.png)
+
+the y_cordinate of the top of the board
+
+![width](https://github.com/issaccheng2008/Tetris-AI-play-forever/blob/main/y_coordinate.png)
+
+and put them into px,py,w,bx,by,top_y
